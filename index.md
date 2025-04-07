@@ -1,17 +1,60 @@
-CleanClip is a smart clipboard cleaner designed to simplify your links.
-Every time you copy a URL, CleanClip steps in to remove unnecessary tracking parameters — leaving you with a clean, privacy-friendly link.
+# CleanClip
 
-Whether you’re sharing YouTube videos, news articles, or shopping links, CleanClip keeps your clipboard clean and focused.
+**A smart clipboard cleaner that simplifies your links.**
 
-Features:
-• Automatically detects and cleans copied URLs
-• Supports both specific parameter removal (e.g. utm_source, si, fbclid)
-• Option to remove all URL parameters entirely
-• Manually refresh clipboard with one tap
-• Tap cleaned link to instantly copy back to clipboard
-• Customizable cleaning rules
-• Simple, minimal interface — no clutter
+CleanClip automatically detects when you copy a URL and removes unnecessary tracking parameters — giving you a clean, privacy-friendly link.
 
-Perfect for privacy-conscious users, marketers, or anyone who shares a lot of links.
+---
 
-And No any information will send or store by this app. This app is an offline app. Without any tracker.
+## ✨ Features
+
+- ✅ Automatically detects and cleans copied URLs  
+- 🎯 Removes common tracking parameters (e.g. `utm_source`, `si`, `fbclid`)  
+- ✂️ Option to remove **all** URL parameters entirely  
+- 🔄 Manual clipboard refresh with one tap  
+- 📋 Tap cleaned link to instantly copy it back to your clipboard  
+- ⚙️ Customizable parameter removal rules  
+- 🧘‍♂️ Clean, minimal interface — no clutter
+
+---
+
+## 🔒 Privacy First
+
+CleanClip runs **100% offline**.  
+- No information is ever sent or stored.  
+- No trackers.  
+- No analytics.  
+- No account required.
+
+All processing is done **locally on your device**. Your data stays private.
+
+---
+
+## 📱 Perfect For
+
+- Privacy-conscious users  
+- Marketers who share links regularly  
+- Anyone tired of messy URLs
+
+---
+
+## 🛠 About
+
+**Developer:** Peter Lee  
+**Platform:** iOS  
+**Pricing:** One-time purchase  
+**Privacy Policy:** [View here](#privacy-policy)
+
+---
+
+## 📄 Privacy Policy
+
+CleanClip does **not collect any personal data**. The app does not request, store, transmit, or share any clipboard contents or user information. All functionality runs locally on the device.
+
+This app does not use any analytics, advertising SDKs, or cloud services.
+
+**Effective Date:** 2025-04-05
+
+---
+
+© 2025 Peter Lee. All rights reserved.
